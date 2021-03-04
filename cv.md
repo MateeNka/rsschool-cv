@@ -2,11 +2,11 @@
 1. My name is Matvey Pryadko.
 2. Phone: +375292305587(MTS)  
   
-   Vk: https://vk.com/mateenka;
+   Vk: [id]: https://vk.com/mateenka;
    
-   LinkedIn: https://www.linkedin.com/in/matvey-pryadko-bb676b1ba/;
+   LinkedIn: [id]: https://www.linkedin.com/in/matvey-pryadko-bb676b1ba/;
    
-   GitHub: https://github.com/MateeNka;
+   GitHub: [id]: https://github.com/MateeNka;
 3. A little about me: I'am a student of **BSU Phisics faculty**. My goal is learn JS and layout through RS School.
    I have base knowledge in programming and i want to umprove my skills. **I easily find a common language and find a compromise.**
    
