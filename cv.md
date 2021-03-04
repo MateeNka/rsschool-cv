@@ -22,3 +22,6 @@
       };
     
    ```
+6.  My expirience: I participated in **Elbrus marathone**. In University I learn **computer science**. 
+7.  My educaion: I finished Phis-Mat school and now I'am student (1 grade) of BSU Phisics faculty.
+8.  My English: A2 level. 
