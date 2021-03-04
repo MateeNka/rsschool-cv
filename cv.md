@@ -7,4 +7,18 @@
    LinkedIn: https://www.linkedin.com/in/matvey-pryadko-bb676b1ba/;
    
    GitHub: https://github.com/MateeNka;
-3. 
+3. A little about me: I'am a student of **BSU Phisics faculty**. My goal is learn JS and layout through RS School.
+   I have base knowledge in programming and i want to umprove my skills. **I easily find a common language and find a compromise.**
+   
+4. My skills: base knowledge **Delphi; Unity C#; front-end(HTML,CSS,JS); HTML-CSS framework - Bootsrap;** 
+
+5. My code:
+   ```
+      const func = (num) => {  
+  if (num > 0) {  
+    return num - 1;  
+  }
+  return num + 1;  
+};
+    
+    ```
